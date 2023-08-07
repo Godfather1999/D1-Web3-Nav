@@ -52,4 +52,7 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ $.Site.Params.seo.GoogleAdsClient }}" crossorigin="anonymous"></script>
     {{ end }}
     <!-- end Google AdSense -->
+    {{- if .Site.GoogleAnalytics }}
+    {{ template "_internal/google_analytics.html" . }}
+    {{- end}}
 </head>

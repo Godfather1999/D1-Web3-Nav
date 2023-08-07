@@ -24,7 +24,13 @@
             <div id="search-list" class="hide-type-list">
                 <div class="search-group group-a">
                     <ul class="search-type">
-		        <li><input hidden="" type="radio" name="type" checked="checked"
+                        <li><input hidden="" type="radio" name="type" checked="checked"
+                                id="type-google"
+                                value="https://www.google.com/search?q=" 
+                                data-placeholder="Google">
+			    <label for="type-google"><span class="text-muted">Google</span></label>
+                        </li>
+		        <li><input hidden="" type="radio" name="type"
                                 id="type-baidu"
                                 value="https://www.baidu.com/s?wd=" 
                                 data-placeholder="百度一下，你就知道">
@@ -35,12 +41,6 @@
                                 value="https://cn.bing.com/search?q=" 
                                 data-placeholder="微软 Bing 搜索">
 			    <label for="type-bing"><span class="text-muted">必应</span></label>
-                        </li>
-                        <li><input hidden="" type="radio" name="type" 
-                                id="type-google"
-                                value="https://www.google.com/search?q=" 
-                                data-placeholder="谷歌搜索">
-			    <label for="type-google"><span class="text-muted">谷歌</span></label>
                         </li>
                         <li><input hidden="" type="radio" name="type" 
                                 id="type-anaconda" 
