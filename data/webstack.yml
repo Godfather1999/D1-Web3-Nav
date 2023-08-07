@@ -1,0 +1,15 @@
+---
+
+- taxonomy: D1 推荐
+  icon: fas fa-burn
+  links: 
+    - title: Binance
+      logo: "binance.png"
+      url: https://www.bit.ly/ndbinance
+      qrcode: assets/images/logos/binance-qr.png
+      description: 币安交易所
+    - title: OK交易所
+      logo: okx.png
+      url: http://bit.ly/ndokx
+      description: 欧易交易所
+
