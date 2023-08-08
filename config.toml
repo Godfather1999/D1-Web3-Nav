@@ -47,4 +47,4 @@ googleAnalytics       = 'G-QXXPENV3WP'
     unsafe = true
 
 [params.footer]
-    copyright = 'Copyright © 2002-{year} D1 Web3 导航 , All rights reserved.'
+    copyright = 'Copyright © 2002-{year} D1 Web3 d导航 , All rights reserved.'
