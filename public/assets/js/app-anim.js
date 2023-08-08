@@ -1038,7 +1038,7 @@
     });
     function getUrlInfo(_url,modal){
         $('#modal-new-url-ico').show();
-		$.post("//apiv2.iotheme.cn/webinfo/get.php", { url: _url ,key: theme.apikey },function(data,status){ 
+		$.post("", { url: _url ,key: theme.apikey },function(data,status){ 
 			if(data.code==0){
                 $('#modal-new-url-ico').hide();
 				$("#modal-new-url-summary").addClass('is-invalid');

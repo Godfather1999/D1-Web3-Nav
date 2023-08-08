@@ -506,7 +506,7 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .header-big.canvas-fx{background-color:#1b1d1f}
 .post-top{padding-bottom:10px}
 .header-big.no-bg{padding-bottom:10px}
-.header-big.css-color{background-size:400%;background-position:0% 100%;-webkit-animation:gradient 20s ease-in-out infinite;animation:gradient 20s ease-in-out infinite}
+.header-big.css-color{background-size:400%;background-position:0% 100%;-webkit-animation:gradient 30s ease-in-out infinite;animation:gradient 30s ease-in-out infinite}
 @-webkit-keyframes gradient{50%{background-position:100% 0}
 }
 @keyframes gradient{50%{background-position:100% 0}
