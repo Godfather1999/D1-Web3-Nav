@@ -36,7 +36,7 @@ googleAnalytics       = 'G-QXXPENV3WP'
 
 [params.images]
     favicon           = "assets/images/favicon.png"
-    searchImageL      = "assets/images/bg2.png"		# 搜索部分浅色背景图
+    searchImageL      = "assets/images/bg.png"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.png"
     logoExpandDark    = "assets/images/bt8-expand-dark.png"
