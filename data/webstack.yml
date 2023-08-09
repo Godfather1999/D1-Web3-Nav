@@ -3,25 +3,37 @@
 - taxonomy: D1推荐
   icon: fas fa-burn
   links: 
-    - title: Binance
-      logo: "binance-logo.png"
-      url: https://www.bit.ly/ndbinance
-      description: 币安交易所
+    - title: OneCard
+      logo: "onekey.ico"
+      url: https://tinyurl.com/Dvisacard
+      description: USDT虚拟信用卡
+    - title: N26
+      logo: "n26.ico"
+      url: https://tinyurl.com/dn26bank
+      description: 出金必备银行
     - title: OKX
-      logo: okx-logo.png
+      logo: "okx.png"
       url: http://bit.ly/ndokx
       description: 欧易交易所
+    - title: Binance
+      logo: "binance.png"
+      url: https://www.bit.ly/ndbinance
+      description: 币安交易所
     - title: CEX.io
-      logo: cex.io.ico
-      url: https://cex.io/r/3/up154436117/3
+      logo: "cex.ico"
+      url: https://tinyurl.com/ndcexio
       description: FCA监管交易所
-    - title: bitget
-      logo: bitget.ico
+    - title: BitGet
+      logo: "bitget.ico"
       url: http://bit.ly/ndbitget
     - title: Gate.io
-      logo: gate.io-logo.png
+      logo: "gate.io.png"
       url: http://bit.ly/ndgate
       description: 芝麻开门交易所
+    - title: Wget
+      logo: "wgetcloud.ico"
+      url: https://tinyurl.com/dgetcloud
+      description: 科学上网
 
 - taxonomy: 人工智能
   icon: fas fa-flask fa-lg
@@ -31,17 +43,18 @@
       url: https://chat.openai.com
       description: AI老大
     - title: dall-e-2
-      logo: "binance-logo.png"
+      logo: "openai.ico"
       url: https://openai.com/dall-e-2
+      description: openai作图
     - title: MidJourney
-      logo: "binance-logo.png"
+      logo: "midjourney.ico"
       url: https://docs.midjourney.com/
       description: AI作图神器
     - title: 白瓜AI助手
-      logo: "binance-logo.png"
+      logo: "baigua.ico"
       url: https://baigua.com/
     - title: AI生成PPT
-      logo: "binance-logo.png"
+      logo: "gamma.ico"
       url: https://gamma.app/
 
 - taxonomy: 数据分析
@@ -49,68 +62,68 @@
   list:
     - term: 图形化分析
       links:
-        - title: dune
-          logo: "binance-logo.png"
+        - title: Dune
+          logo: "dune.ico"
           url: https://dune.com/
-          description: IP池
-        - title: dappradar
-          logo: "binance-logo.png"
+          description: SQL查询链上数据
+        - title: DappRadar
+          logo: "dappradar.ico"
           url: https://dappradar.com/
-          description: 指纹浏览器
-        - title: crypotoquant
-          logo: "binance-logo.png"
+          description: dAPP雷达
+        - title: CryptoQuant
+          logo: "cryptoquant.ico"
           url: https://cryptoquant.com/
-          description: 指纹浏览器
-        - title: coinmarketcap
-          logo: "binance-logo.png"
+          description: 链上分析
+        - title: CoinMarketCap
+          logo: "coinmarketcap.ico"
           url: https://coinmarketcap.com/
-          description: 指纹浏览器
-        - title: cryptobubble
-          logo: "binance-logo.png"
+          description: 币价查询必备
+        - title: CryptoBubble
+          logo: "cryptobubbles.ico"
           url: https://cryptobubbles.net/
           description: 气泡图形行情
-        - title: scopescan
-          logo: "binance-logo.png"
+        - title: ScopeScan
+          logo: "scopescan.ico"
           url: https://www.scopescan.ai/home?network=eth 
-          description: 指纹浏览器
-        - title: coinglass
-          logo: "binance-logo.png"
+          description: Web3 分析
+        - title: CoinGlass
+          logo: "coinglass.ico"
           url: https://www.coinglass.com/zh
-          description: 很全面
-        - title: cypherhunter
-          logo: "binance-logo.png"
+          description: 全面数据分析
+        - title: CypherHunter
+          logo: "cypherhunter.ico"
           url: https://www.cypherhunter.com/zh-hans/discover/
-          description: 性价比
-        - title: debank
-          logo: "binance-logo.png"
+          description: 机会发现
+        - title: Debank
+          logo: "debank.ico"
           url: https://debank.com/
           description: 性价比
-        - title: datamish
-          logo: "binance-logo.png"
+        - title: Datamish
+          logo: "datamish.ico"
           url: https://datamish.com/
           description: 性价比
-        - title: bubblemaps
-          logo: "binance-logo.png"
+        - title: BubbleMaps
+          logo: "bubblemaps.ico"
           url: https://app.bubblemaps.io/eth/
-          description: 项目的持币地址之间的交互关系
+          description: 项目的持币地址间的交互关系
     - term: 区块链浏览器
       links:
-        - title: blockchair
-          logo: "binance-logo.png"
+        - title: Blockchair
+          logo: "blockchair.ico"
           url: https://blockchair.com/
-          description: IP池
-        - title: Btcscan
-          logo: "binance-logo.png"
+          description: 全链浏览器
+        - title: BTCScan
+          logo: "btcscan.ico"
           url: https://btcscan.org/
-          description: IP池
-        - title: Etherscan
-          logo: "binance-logo.png"
+          description: BTC浏览器
+        - title: EtherScan
+          logo: "etherscan.ico"
           url: https://etherscan.io/
-          description: IP池
-        - title: Bscscan
-          logo: "binance-logo.png"
+          description: ETH浏览器
+        - title: BscScan
+          logo: "bscscan.ico"
           url: https://bscscan.com/
-          description: IP池
+          description: BSC浏览器
 
 - taxonomy: 空投网赚
   icon: fas fa-flask fa-lg
@@ -118,41 +131,41 @@
     - term: 空投工具
       links:
         - title: Proxyline
-          logo: "binance-logo.png"
+          logo: "proxyline.ico"
           url: https://proxyline.net/?ref=186821
           description: IP池
         - title: ProxySeller
-          logo: "binance-logo.png"
+          logo: "proxy-seller.ico"
           url: https://proxy-seller.com/zh/?partner=2Z0T17DI7GXWEY
           description: IP池
         - title: AdsPower
-          logo: "binance-logo.png"
+          logo: "AdsPower.ico"
           url: http://bit.ly/Dbrowser
           description: 指纹浏览器
-        - title: earni.fi
-          logo: "binance-logo.png"
+        - title: Earni.fi
+          logo: "earni.fi.ico"
           url:  https://earni.fi/
           description: 钱包空投信息查询
     - term: 空投信息
       links: 
         - title: Airdrops.io
-          logo: "binance-logo.png"
+          logo: "Airdrops.io.ico"
           url: https://airdrops.io/
           description: 空投信息聚合
         - title: Airdropalert
-          logo: "binance-logo.png"
+          logo: "airdropalert.ico"
           url: https://airdropalert.com/
           description: 空投信息聚合
-        - title: coinmarketcap
-          logo: "binance-logo.png"
+        - title: CoinMarketCap
+          logo: "coinmarketcap.ico"
           url: https://coinmarketcap.com/zh/airdrop/ 
           description: 空投信息
-        - title: galxe
-          logo: "binance-logo.png"
+        - title: Galxe
+          logo: "galxe.ico"
           url: https://galxe.com/ 
-          description: 空投信息
-        - title: dropsearn
-          logo: "binance-logo.png"
+          description: 空投任务
+        - title: DropsEarn
+          logo: "dropsearn.ico"
           url: https://dropsearn.com/airdrops/
           description: 空投信息
 - taxonomy: 交易板块
@@ -161,50 +174,50 @@
     - term: 中心化交易所
       links:
         - title: Binance
-          logo: "binance-logo.png"
+          logo: "binance.png"
           url: https://bit.ly/ndbinance
           description: 高品质
         - title: OKX
-          logo: okx-logo.png
+          logo: "okx.png"
           url: http://bit.ly/ndokx
           description: 欧易交易所
         - title: CEX.io
-          logo: cex.io.ico
-          url: https://cex.io/r/3/up154436117/3
+          logo: "cex.ico"
+          url: https://tinyurl.com/ndcexio
           description: FCA监管交易所
-        - title: bitget
+        - title: BitGet
           logo: bitget.ico
           url: http://bit.ly/ndbitget
         - title: Gate.io
-          logo: gate.io-logo.png
+          logo: "gate.io.png"
           url: http://bit.ly/ndgate
           description: 芝麻开门交易所
         - title: Pionex
-          logo: "binance-logo.png"
+          logo: "pionex.ico"
           url: https://www.pionex.com/zh-CN/sign/ref/x29qzSPk
           description: 量化交易
     - term: 去中心化交易所
       links:
         - title: Pancake
-          logo: "binance-logo.png"
+          logo: "pancakeswap.ico"
           url: https://pancakeswap.finance/
           description: BSC DEX
         - title: Uniswap
-          logo: "binance-logo.png"
+          logo: "uniswap.ico"
           url: https://uniswap.org/
           description: ETH DEX
     - term: 行情分析
       links:
         - title: TradingView
-          logo: "binance-logo.png"
+          logo: "tradingview.ico"
           url: http://bit.ly/DTradingView
           description: 必备行情软件
-        - title: cryptobubbles
-          logo: "binance-logo.png"
+        - title: CryptoBubbles
+          logo: "cryptobubbles.ico"
           url: https://cryptobubbles.net/
           description: 气泡图形行情
-        - title: coinglass
-          logo: "binance-logo.png"
+        - title: CoinGlass
+          logo: "coinglass.ico"
           url: https://www.coinglass.com/zh
           description: 很全面
 
@@ -214,61 +227,61 @@
     - term: DID
       links:
         - title: ENS Domain
-          logo: "binance-logo.png"
+          logo: "ens.domains.ico"
           url: https://ens.domains/
           description: 以太坊域名
         - title: SpaceID
-          logo: "binance-logo.png"
+          logo: "space.id.ico"
           url: https://space.id/
           description: BSC域名
         - title: Gitcoin
-          logo: "binance-logo.png"
+          logo: "gitcoin.ico"
           url:  https://passport.gitcoin.co/
           description: Gitcoin Passport
         - title: ZKS Domain
-          logo: "binance-logo.png"
+          logo: "zks.network.ico"
           url:  https://zks.network/
           description: ZKS域名
         - title: Starknet Domain
-          logo: "binance-logo.png"
+          logo: "starknet.id.ico"
           url:  https://app.starknet.id/
           description: Starknet域名
         - title: Ace Domain
-          logo: "binance-logo.png"
+          logo: "acedomains.ico"
           url:  app.acedomains.io
           description: Ace域名
         - title: Base Domain
-          logo: "binance-logo.png"
+          logo: "basens.ico"
           url:  https://app.basens.domains/
           description: Base域名
     - term: 链游
       links: 
-        - title: honeygain
-          logo: "binance-logo.png"
+        - title: Honeygain
+          logo: "honeygain.ico"
           url: https://r.honeygain.me/BITBI8FDD8
           description: 挂机赚钱
-        - title: degame
-          logo: "binance-logo.png"
+        - title: Degame
+          logo: "degame.ico"
           url: https://degame.com/zh/ranking 
-          description: 空投信息聚合
-        - title: playtoearn
-          logo: "binance-logo.png"
+          description: 链游排行
+        - title: PlaytoEarn
+          logo: "playtoearn.online.ico"
           url: https://www.playtoearn.online/
-          description: 空投信息
-        - title: gametaverse
-          logo: "binance-logo.png"
+          description: 链游资讯
+        - title: Gametaverse
+          logo: "gametaverse.ico"
           url: https://gametaverse.io/ 
-          description: 空投信息
-        - title: gamefiorg
-          logo: "binance-logo.png"
+          description: 链游趋势
+        - title: Gamefiorg
+          logo: "gamefi.ico"
           url: https://gamefi.org/ 
           description: 链游聚合信息
-        - title: playtoearn
-          logo: "binance-logo.png"
+        - title: PlaytoEarn
+          logo: "playtoearn.net.ico"
           url: https://playtoearn.net/blockchaingames
-          description: 链游赚钱工会
-        - title: yieldguild
-          logo: "binance-logo.png"
+          description: 链游表单
+        - title: YieldGuild
+          logo: "yieldguild.ico"
           url: https://www.yieldguild.io/
           description: 链游赚钱工会
 
@@ -277,32 +290,32 @@
   list:
     - term: NFT市场
       links:
-        - title: opensea
-          logo: "binance-logo.png"
+        - title: OpenSea
+          logo: "opensea.ico"
           url: https://opensea.io/
           description: NFT龙头
-        - title: blur
-          logo: "binance-logo.png"
+        - title: Blur
+          logo: "blur.ico"
           url: https://blur.io/
           description: NFT交易
-        - title: rarible
-          logo: "binance-logo.png"
+        - title: Rarible
+          logo: "rarible.ico"
           url: https://rarible.com/
           description: NFT市场
-        - title: element
-          logo: "binance-logo.png"
+        - title: Element
+          logo: "element.ico"
           url: https://element.market/
           description: 社区驱动NFT市场
     - term: NFT工具
       links:
-        - title: nftdropscalendar
-          logo: "binance-logo.png"
+        - title: NFTDropsCalendar
+          logo: "nftdropscalendar.ico"
           url: https://www.nftdropscalendar.com/
-          description: nfteye
-        - title: Uniswap
-          logo: "binance-logo.png"
+          description: NFT雷达
+        - title: NFTEye
+          logo: "nfteye.ico"
           url:  https://nfteye.io/dashboard
-          description: Uniswap
+          description: NFT看板
 
 - taxonomy: 效率提升
   icon: fas fa-flask fa-lg
@@ -310,54 +323,59 @@
     - term: 科学上网
       links:
         - title: Wget
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
+          logo: "wgetcloud.ico"
+          url: https://tinyurl.com/dgetcloud
           description: 高品质
         - title: Lightning
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
+          logo: "lightning.png"
+          url: http://bit.ly/d-lightning
           description: 性价比
     - term: 出金平台
       links:
+        - title: OneCard
+          logo: "onekey.ico"
+          url: https://tinyurl.com/Dvisacard
+          description: USDT虚拟信用卡
         - title: N26
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
-          description: 高品质
+          logo: "n26.ico"
+          url: https://tinyurl.com/dn26bank
+          description: 出金必备银行
         - title: Wise
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
-          description: 性价比
-        - title: Cex
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
-          description: CEX.io
+          logo: "wise.ico"
+          url: https://tinyurl.com/ndwise
+          description: 出金必备
+        - title: Cex.io
+          logo: "cex.ico"
+          url: https://tinyurl.com/ndcexio
+          description: FCA监管交易所
     - term: Web3工具
       links:
         - title: Dmail
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
+          logo: "dmail.ico"
+          url: https://tinyurl.com/nddmail
           description: 高品质
-        - title: 临时邮箱
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
-          description: 性价比
+        - title: TempMail
+          logo: "temp-mail.ico"
+          url: https://temp-mail.org/zh
+          description: 临时邮箱
 
 - taxonomy: 跨链桥
   icon: fas fa-flask fa-lg
   links:
-    - title: base
+    - title: Base Bridge
       logo: "chatgpt.ico"
       url: https://bridge.base.org/deposit
-      description: AI老大
-    - title: zk
-      logo: "binance-logo.png"
+      description: Base跨链桥
+    - title: ZKS Bridge
+      logo: "zkbridge.ico"
       url: https://portal.zksync.io/bridge/
-    - title: starkgate
-      logo: "binance-logo.png"
+      description: Zk跨链桥
+    - title: Starkgate Bridge
+      logo: "starkgate.ico"
       url: https://starkgate.starknet.io/
-      description: AI作图神器
-    - title: orbiter
-      logo: "binance-logo.png"
+      description: Starkgate跨链桥
+    - title: Orbiter
+      logo: "orbiter.ico"
       url: https://www.orbiter.finance/
 
 - taxonomy: 开发者资源
@@ -366,118 +384,101 @@
     - term: 开发工具
       links:
         - title: Remix
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
-          description: 高品质
-        - title: 公共RPC节点
-          logo: "binance-logo.png"
+          logo: "remix.ethereum.ico"
+          url: https://remix.ethereum.org/
+          description: ETH IDE
+        - title: ETH Nodes
+          logo: "ethereum.ico"
           url: https://ethereumnodes.com/
-          description: 性价比
-        - title: 合约验证
-          logo: "binance-logo.png"
+          description: 公共RPC节点
+        - title: ERC721 Validator
+          logo: "erc721validator.ico"
           url: https://erc721validator.org/ 
-          description: 性价比
+          description: 合约验证
     - term: 开发框架
       links:
-        - title: Dmail
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
-          description: 高品质
-        - title: 临时邮箱
-          logo: "binance-logo.png"
-          url: https://www.ncbi.nlm.nih.gov/
-          description: 性价比
+        - title: Hardhat
+          logo: "hardhat.ico"
+          url: https://hardhat.org/
+        - title: Brownie
+          logo: "eth-brownie.readthedocs.ico"
+          url: https://eth-brownie.readthedocs.io/en/stable/quickstart.html
         - title: Solidity教程
-          logo: "binance-logo.png"
+          logo: "freeCodeCamp.jpg"
           url: https://www.youtube.com/watch?v=M576WGiDBdQ 
-          description: 性价比
-        - title: 资源合集
-          logo: "binance-logo.png"
+        - title: Dev Resources
+          logo: "github.ico"
           url: https://github.com/frankiefab100/Blockchain-Development-Resources
-          description: 性价比
+          description: 开发资源合集
     - term: 测试网水龙头
       links:
-        - title: pk910
-          logo: "binance-logo.png"
+        - title: PK910
+          logo: "goerli-faucet.pk910.ico"
           url: https://goerli-faucet.pk910.de/
           description: 挂机领测试币
-        - title: defillama Faucet
-          logo: "binance-logo.png"
+        - title: DefiLlama
+          logo: "token-faucet.defillama.ico"
           url: https://token-faucet.defillama.com/
-          description: 性价比
     - term: 工作机会
       links:
-        - title: bolejobs
-          logo: "binance-logo.png"
+        - title: BoleJobs
+          logo: "bolejobs.ico"
           url: https://www.bolejobs.co/
-          description: 高品质
-        - title: cryptojobslist
-          logo: "binance-logo.png"
+        - title: CryptoJobsList
+          logo: "cryptojobslist.ico"
           url: https://cryptojobslist.com/
-          description: 性价比
-        - title: remote3
-          logo: "binance-logo.png"
+        - title: Remote3
+          logo: "remote3.ico"
           url: https://remote3.co/
-          description: 性价比
-        - title: web3.career
-          logo: "binance-logo.png"
+        - title: Web3.Career
+          logo: "web3.career.ico"
           url: https://web3.career/
-          description: 性价比
-        - title: useweb3
-          logo: "binance-logo.png"
+        - title: UseWeb3
+          logo: "useweb3.ico"
           url: https://www.useweb3.xyz/jobs
-          description: 性价比
-        - title: dework
-          logo: "binance-logo.png"
+        - title: DeWork
+          logo: "dework.ico"
           url: https://app.dework.xyz/
-          description: 性价比
 - taxonomy: 新闻资讯
   icon: fas fa-flask fa-lg
   links:
     - title: Bsc News
-      logo: "chatgpt.ico"
+      logo: "bsc.news.ico"
       url: https://www.bsc.news/
-      description: AI老大
+      description: BSC新闻
     - title: Crypto Daily
-      logo: "chatgpt.ico"
+      logo: "cryptodaily.ico"
       url: https://cryptodaily.co.uk/
-      description: AI老大
-    - title: Coin Wire
-      logo: "chatgpt.ico"
+    - title: CoinWire
+      logo: "coinwire.ico"
       url: https://coinwire.com/
-      description: AI老大
     - title: CoinDesk
-      logo: "chatgpt.ico"
+      logo: "coindesk.ico"
       url: https://www.coindesk.com/
-      description: AI老大
     - title: Odaily
-      logo: "chatgpt.ico"
+      logo: "odaily.ico"
       url: https://www.odaily.news/
       description: 星球日报
     - title: Jinse
-      logo: "chatgpt.ico"
+      logo: "jinse.ico"
       url: https://www.jinse.com/
       description: 金色财经
     - title: DefiDAO
-      logo: "chatgpt.ico"
+      logo: "defidaonews.ico"
       url: https://www.defidaonews.com/
-      description: AI老大
     - title: 非小号
-      logo: "chatgpt.ico"
+      logo: "feixiaohaozh.ico"
       url: https://www.feixiaohaozh.info/
-      description: AI老大
     - title: Foresight
-      logo: "chatgpt.ico"
+      logo: "foresightnews.ico"
       url: https://foresightnews.pro/
-      description: AI老大
     - title: Investing
-      logo: "chatgpt.ico"
+      logo: "investing.ico"
       url: https://cn.investing.com/
       description: 英为财情
     - title: BlockTempo
-      logo: "chatgpt.ico"
+      logo: "blocktempo.ico"
       url: https://www.blocktempo.com/
-      description: AI老大
     - title: PAnews
-      logo: "chatgpt.ico"
+      logo: "panewslab.ico"
       url: https://www.panewslab.com/zh/index.html
