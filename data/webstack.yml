@@ -36,7 +36,7 @@
       description: 科学上网
 
 - taxonomy: 人工智能
-  icon: fas fa-flask fa-lg
+  icon: fas fa-robot
   links:
     - title: ChatGPT
       logo: "chatgpt.ico"
@@ -58,7 +58,7 @@
       url: https://gamma.app/
 
 - taxonomy: 数据分析
-  icon: fas fa-burn
+  icon: fas fa-chart-pie
   list:
     - term: 图形化分析
       links:
@@ -126,7 +126,7 @@
           description: BSC浏览器
 
 - taxonomy: 空投网赚
-  icon: fas fa-flask fa-lg
+  icon: fas fa-trophy
   list:
     - term: 空投工具
       links:
@@ -169,7 +169,7 @@
           url: https://dropsearn.com/airdrops/
           description: 空投信息
 - taxonomy: 交易板块
-  icon: fas fa-flask fa-lg
+  icon: fas fa-chart-line
   list:
     - term: 中心化交易所
       links:
@@ -222,7 +222,7 @@
           description: 很全面
 
 - taxonomy: 元宇宙
-  icon: fas fa-flask fa-lg
+  icon: fas fa-rocket
   list:
     - term: DID
       links:
@@ -286,7 +286,7 @@
           description: 链游赚钱工会
 
 - taxonomy: NFT
-  icon: fas fa-flask fa-lg
+  icon: fas fa-palette
   list:
     - term: NFT市场
       links:
@@ -318,7 +318,7 @@
           description: NFT看板
 
 - taxonomy: 效率提升
-  icon: fas fa-flask fa-lg
+  icon: fas fa-screwdriver
   list:
     - term: 科学上网
       links:
@@ -360,7 +360,7 @@
           description: 临时邮箱
 
 - taxonomy: 跨链桥
-  icon: fas fa-flask fa-lg
+  icon: fas fa-rainbow
   links:
     - title: Base Bridge
       logo: "chatgpt.ico"
@@ -379,7 +379,7 @@
       url: https://www.orbiter.finance/
 
 - taxonomy: 开发者资源
-  icon: fas fa-flask fa-lg
+  icon: fas fa-layer-group
   list:
     - term: 开发工具
       links:
@@ -440,7 +440,7 @@
           logo: "dework.ico"
           url: https://app.dework.xyz/
 - taxonomy: 新闻资讯
-  icon: fas fa-flask fa-lg
+  icon: fas fa-solid fa-newspaper
   links:
     - title: Bsc News
       logo: "bsc.news.ico"

@@ -54,6 +54,76 @@ if (!doNotTrack) {
 </head>
 
 
+<body class="io-black-mode">
+
+    
+    <div id="loading">
+        <style>
+            .loader {
+                width: 250px;
+                height: 50px;
+                line-height: 50px;
+                text-align: center;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                font-family: helvetica, arial, sans-serif;
+                font-weight: 900;
+                color: #f1404b;
+                letter-spacing: 0.2em
+            }
+
+            .loader::before,
+            .loader::after {
+                content: "";
+                display: block;
+                width: 15px;
+                height: 15px;
+                background: #f1404b;
+                position: absolute;
+                animation: load .7s infinite alternate ease-in-out
+            }
+
+            .loader::before {
+                top: 0
+            }
+
+            .loader::after {
+                bottom: 0
+            }
+
+            @keyframes load {
+                0% {
+                    left: 0;
+                    height: 30px;
+                    width: 15px
+                }
+
+                50% {
+                    height: 8px;
+                    width: 40px
+                }
+
+                100% {
+                    left: 235px;
+                    height: 30px;
+                    width: 15px
+                }
+            }
+        </style>
+        <div class="loader">Web3 导航</div>
+    </div>
+    
+    
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
 <div class="main-content flex-fill grid-bg">
     <div class="big-header-banner">
         <div id="header" class="page-header sticky">
@@ -185,7 +255,7 @@ if (!doNotTrack) {
     <div class="container">
         <h1 class="mt-5">Web3 Blog</h1>
         <div class="content">
-            
+            D1 Blog
         </div>
     </div>
     </main>
@@ -214,7 +284,7 @@ if (!doNotTrack) {
                     rel="search" one-link-mark="yes">
                     <i class="iconfont icon-search"></i>
                 </a>
-                <a href="#" class="btn rounded-circle kefu m-1" target="_blank" data-toggle="tooltip" data-placement="left" title="联系我们">
+                <a href="https://t.me/oldking3" class="btn rounded-circle kefu m-1" target="_blank" data-toggle="tooltip" data-placement="left" title="联系我们">
                     <i class="mode-ico iconfont icon-qq"></i>
                 </a>
                 
