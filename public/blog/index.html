@@ -260,6 +260,7 @@ if (!doNotTrack) {
                             <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
                         </div>
                         
+                        <span>欢迎收藏本网站 Ctrl (⌘) + D</span>
                     </div>
 
                     <ul class="nav navbar-menu text-xs order-1 order-md-2">
@@ -271,12 +272,12 @@ if (!doNotTrack) {
                                     .then(response => response.json())
                                     .then(data => {
                                     const hitokoto = document.getElementById('hitokoto_text')
-                                    hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+                                    hitokoto.href = '#'
                                     hitokoto.innerText = data.hitokoto
                                     })
                                     .catch(console.error)
                             </script>                           
-                            <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</a></div>
+                            <div id="hitokoto"><a href="#"  id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</a></div>
                         </li>
                         
                         

@@ -52,7 +52,7 @@
       description: AI作图神器
     - title: 白瓜AI助手
       logo: "baigua.ico"
-      url: https://baigua.com/
+      url: http://bit.ly/baigua
     - title: AI生成PPT
       logo: "gamma.ico"
       url: https://gamma.app/
@@ -359,25 +359,6 @@
           url: https://temp-mail.org/zh
           description: 临时邮箱
 
-- taxonomy: 跨链桥
-  icon: fas fa-rainbow
-  links:
-    - title: Base Bridge
-      logo: "chatgpt.ico"
-      url: https://bridge.base.org/deposit
-      description: Base跨链桥
-    - title: ZKS Bridge
-      logo: "zkbridge.ico"
-      url: https://portal.zksync.io/bridge/
-      description: Zk跨链桥
-    - title: Starkgate Bridge
-      logo: "starkgate.ico"
-      url: https://starkgate.starknet.io/
-      description: Starkgate跨链桥
-    - title: Orbiter
-      logo: "orbiter.ico"
-      url: https://www.orbiter.finance/
-
 - taxonomy: 开发者资源
   icon: fas fa-layer-group
   list:
@@ -424,21 +405,46 @@
         - title: BoleJobs
           logo: "bolejobs.ico"
           url: https://www.bolejobs.co/
+          description: 中文招聘
         - title: CryptoJobsList
           logo: "cryptojobslist.ico"
           url: https://cryptojobslist.com/
+          description: 招聘门户
         - title: Remote3
           logo: "remote3.ico"
           url: https://remote3.co/
+          description: 远程工作
         - title: Web3.Career
           logo: "web3.career.ico"
           url: https://web3.career/
+          description: 薪资排序
         - title: UseWeb3
           logo: "useweb3.ico"
           url: https://www.useweb3.xyz/jobs
+          description: 技术开发
         - title: DeWork
           logo: "dework.ico"
           url: https://app.dework.xyz/
+          description: DAO任务
+- taxonomy: 跨链桥
+  icon: fas fa-rainbow
+  links:
+    - title: Base Bridge
+      logo: "chatgpt.ico"
+      url: https://bridge.base.org/deposit
+      description: Base跨链桥
+    - title: ZKS Bridge
+      logo: "zkbridge.ico"
+      url: https://portal.zksync.io/bridge/
+      description: Zk跨链桥
+    - title: Starkgate Bridge
+      logo: "starkgate.ico"
+      url: https://starkgate.starknet.io/
+      description: Starkgate跨链桥
+    - title: Orbiter
+      logo: "orbiter.ico"
+      url: https://www.orbiter.finance/
+
 - taxonomy: 新闻资讯
   icon: fas fa-solid fa-newspaper
   links:
