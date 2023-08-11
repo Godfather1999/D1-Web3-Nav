@@ -124,6 +124,10 @@
           logo: "bscscan.ico"
           url: https://bscscan.com/
           description: BSC浏览器
+        - title: TronScan
+          logo: "tronscan.ico"
+          url: https://tronscan.org/#/
+          description: 波场浏览器
 
 - taxonomy: 空投网赚
   icon: fas fa-trophy
@@ -201,11 +205,19 @@
         - title: Pancake
           logo: "pancakeswap.ico"
           url: https://pancakeswap.finance/
-          description: BSC DEX
+          description: BSC
         - title: Uniswap
           logo: "uniswap.ico"
           url: https://uniswap.org/
-          description: ETH DEX
+          description: ETH
+        - title: GMX
+          logo: "uniswap.ico"
+          url: https://uniswap.org/
+          description: ARB/AVAX
+        - title: DYDX
+          logo: "dydx.ico"
+          url: https://tinyurl.com/ndydx
+          description: 交易
     - term: 行情分析
       links:
         - title: TradingView
