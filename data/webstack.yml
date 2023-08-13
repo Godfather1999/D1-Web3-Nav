@@ -306,29 +306,29 @@
       links:
         - title: OpenSea
           logo: "opensea.ico"
-          url: https://opensea.io/
+          url: https://opensea.io/?ref=web3.d1dns.com
           description: NFT龙头
         - title: Blur
           logo: "blur.ico"
-          url: https://blur.io/
+          url: https://blur.io/?ref=web3.d1dns.com
           description: NFT交易
         - title: Rarible
           logo: "rarible.ico"
-          url: https://rarible.com/
+          url: https://rarible.com/?ref=web3.d1dns.com
           description: NFT市场
         - title: Element
           logo: "element.ico"
-          url: https://element.market/
+          url: https://element.market/?ref=web3.d1dns.com
           description: 社区驱动NFT市场
     - term: NFT工具
       links:
         - title: NFTDropsCalendar
           logo: "nftdropscalendar.ico"
-          url: https://www.nftdropscalendar.com/
+          url: https://www.nftdropscalendar.com/?ref=web3.d1dns.com
           description: NFT雷达
         - title: NFTEye
           logo: "nfteye.ico"
-          url:  https://nfteye.io/dashboard
+          url:  https://nfteye.io/dashboard?ref=web3.d1dns.com
           description: NFT看板
 
 - taxonomy: 效率提升
