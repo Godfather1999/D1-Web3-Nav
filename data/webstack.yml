@@ -64,23 +64,23 @@
       links:
         - title: Dune
           logo: "dune.ico"
-          url: https://dune.com/
+          url: https://dune.com/?ref=web3.d1dns.com
           description: SQL查询链上数据
         - title: DappRadar
           logo: "dappradar.ico"
-          url: https://dappradar.com/
+          url: https://dappradar.com/?ref=web3.d1dns.com
           description: dAPP雷达
         - title: CryptoQuant
           logo: "cryptoquant.ico"
-          url: https://cryptoquant.com/
+          url: https://cryptoquant.com/?ref=web3.d1dns.com
           description: 链上分析
         - title: CoinMarketCap
           logo: "coinmarketcap.ico"
-          url: https://coinmarketcap.com/
+          url: https://coinmarketcap.com/?ref=web3.d1dns.com
           description: 币价查询必备
         - title: CryptoBubble
           logo: "cryptobubbles.ico"
-          url: https://cryptobubbles.net/
+          url: https://cryptobubbles.net/?ref=web3.d1dns.com
           description: 气泡图形行情
         - title: ScopeScan
           logo: "scopescan.ico"
@@ -88,7 +88,7 @@
           description: Web3 分析
         - title: CoinGlass
           logo: "coinglass.ico"
-          url: https://www.coinglass.com/zh
+          url: https://www.coinglass.com/zh?ref=web3.d1dns.com
           description: 全面数据分析
         - title: CypherHunter
           logo: "cypherhunter.ico"
@@ -96,37 +96,35 @@
           description: 机会发现
         - title: Debank
           logo: "debank.ico"
-          url: https://debank.com/
-          description: 性价比
+          url: https://debank.com/?ref=web3.d1dns.com
         - title: Datamish
           logo: "datamish.ico"
-          url: https://datamish.com/
-          description: 性价比
+          url: https://datamish.com/?ref=web3.d1dns.com
         - title: BubbleMaps
           logo: "bubblemaps.ico"
-          url: https://app.bubblemaps.io/eth/
+          url: https://app.bubblemaps.io/eth/?ref=web3.d1dns.com
           description: 项目的持币地址间的交互关系
     - term: 区块链浏览器
       links:
         - title: Blockchair
           logo: "blockchair.ico"
-          url: https://blockchair.com/
+          url: https://blockchair.com/?ref=web3.d1dns.com
           description: 全链浏览器
         - title: BTCScan
           logo: "btcscan.ico"
-          url: https://btcscan.org/
+          url: https://btcscan.org/?ref=web3.d1dns.com
           description: BTC浏览器
         - title: EtherScan
           logo: "etherscan.ico"
-          url: https://etherscan.io/
+          url: https://etherscan.io/?ref=web3.d1dns.com
           description: ETH浏览器
         - title: BscScan
           logo: "bscscan.ico"
-          url: https://bscscan.com/
+          url: https://bscscan.com/?ref=web3.d1dns.com
           description: BSC浏览器
         - title: TronScan
           logo: "tronscan.ico"
-          url: https://tronscan.org/#/
+          url: https://tronscan.org/#/?ref=web3.d1dns.com
           description: 波场浏览器
 
 - taxonomy: 空投网赚
@@ -154,15 +152,15 @@
       links: 
         - title: Airdrops.io
           logo: "Airdrops.io.ico"
-          url: https://airdrops.io/
+          url: https://airdrops.io/?ref=web3.d1dns.com
           description: 空投信息聚合
         - title: Airdropalert
           logo: "airdropalert.ico"
-          url: https://airdropalert.com/
+          url: https://airdropalert.com/?ref=web3.d1dns.com
           description: 空投信息聚合
         - title: CoinMarketCap
           logo: "coinmarketcap.ico"
-          url: https://coinmarketcap.com/zh/airdrop/ 
+          url: https://coinmarketcap.com/zh/airdrop/ ?ref=web3.d1dns.com
           description: 空投信息
         - title: Galxe
           logo: "galxe.ico"
@@ -170,7 +168,7 @@
           description: 空投任务
         - title: DropsEarn
           logo: "dropsearn.ico"
-          url: https://dropsearn.com/airdrops/
+          url: https://dropsearn.com/airdrops/?ref=web3.d1dns.com
           description: 空投信息
 - taxonomy: 交易板块
   icon: fas fa-chart-line
@@ -226,15 +224,15 @@
           description: 必备行情软件
         - title: CryptoBubbles
           logo: "cryptobubbles.ico"
-          url: https://cryptobubbles.net/
+          url: https://cryptobubbles.net/?ref=web3.d1dns.com
           description: 气泡图形行情
         - title: CoinGlass
           logo: "coinglass.ico"
-          url: https://www.coinglass.com/zh
+          url: https://www.coinglass.com/zh?ref=web3.d1dns.com
           description: 很全面
         - title: DexTools
           logo: "dextools.ico"
-          url: https://www.dextools.io/app/cn?ref=web3.d1dns.com/pairs
+          url: https://www.dextools.io/app/cn?ref=web3.d1dns.com
           description: 小币种K线
 
 - taxonomy: 元宇宙
@@ -244,23 +242,23 @@
       links:
         - title: ENS Domain
           logo: "ens.domains.ico"
-          url: https://ens.domains/
+          url: https://ens.domains/?ref=web3.d1dns.com
           description: 以太坊域名
         - title: SpaceID
           logo: "space.id.ico"
-          url: https://space.id/
+          url: https://space.id/?ref=web3.d1dns.com
           description: BSC域名
         - title: Gitcoin
           logo: "gitcoin.ico"
-          url:  https://passport.gitcoin.co/
+          url:  https://passport.gitcoin.co/?ref=web3.d1dns.com
           description: Gitcoin Passport
         - title: ZKS Domain
           logo: "zks.network.ico"
-          url:  https://zks.network/
+          url:  https://zks.network/?ref=web3.d1dns.com
           description: ZKS域名
         - title: Starknet Domain
           logo: "starknet.id.ico"
-          url:  https://app.starknet.id/
+          url:  https://app.starknet.id/?ref=web3.d1dns.com
           description: Starknet域名
         - title: Ace Domain
           logo: "acedomains.ico"
@@ -268,7 +266,7 @@
           description: Ace域名
         - title: Base Domain
           logo: "basens.ico"
-          url:  https://app.basens.domains/
+          url:  https://app.basens.domains/?ref=web3.d1dns.com
           description: Base域名
     - term: 链游
       links: 
