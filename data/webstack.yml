@@ -450,60 +450,60 @@
   links:
     - title: Base Bridge
       logo: "chatgpt.ico"
-      url: https://bridge.base.org/deposit
+      url: https://bridge.base.org/deposit?ref=web3.d1dns.com
       description: Base跨链桥
     - title: ZKS Bridge
       logo: "zkbridge.ico"
-      url: https://portal.zksync.io/bridge/
+      url: https://portal.zksync.io/bridge/?ref=web3.d1dns.com
       description: Zk跨链桥
     - title: Starkgate Bridge
       logo: "starkgate.ico"
-      url: https://starkgate.starknet.io/
+      url: https://starkgate.starknet.io/?ref=web3.d1dns.com
       description: Starkgate跨链桥
     - title: Orbiter
       logo: "orbiter.ico"
-      url: https://www.orbiter.finance/
+      url: https://www.orbiter.finance/?ref=web3.d1dns.com
 
 - taxonomy: 新闻资讯
   icon: fas fa-solid fa-newspaper
   links:
     - title: Bsc News
       logo: "bsc.news.ico"
-      url: https://www.bsc.news/
+      url: https://www.bsc.news/?ref=web3.d1dns.com
       description: BSC新闻
     - title: Crypto Daily
       logo: "cryptodaily.ico"
-      url: https://cryptodaily.co.uk/
+      url: https://cryptodaily.co.uk/?ref=web3.d1dns.com
     - title: CoinWire
       logo: "coinwire.ico"
-      url: https://coinwire.com/
+      url: https://coinwire.com/?ref=web3.d1dns.com
     - title: CoinDesk
       logo: "coindesk.ico"
-      url: https://www.coindesk.com/
+      url: https://www.coindesk.com/?ref=web3.d1dns.com
     - title: Odaily
       logo: "odaily.ico"
-      url: https://www.odaily.news/
+      url: https://www.odaily.news/?ref=web3.d1dns.com
       description: 星球日报
     - title: Jinse
       logo: "jinse.ico"
-      url: https://www.jinse.com/
+      url: https://www.jinse.com/?ref=web3.d1dns.com
       description: 金色财经
     - title: DefiDAO
       logo: "defidaonews.ico"
-      url: https://www.defidaonews.com/
+      url: https://www.defidaonews.com/?ref=web3.d1dns.com
     - title: 非小号
       logo: "feixiaohaozh.ico"
-      url: https://www.feixiaohaozh.info/
+      url: https://www.feixiaohaozh.info/?ref=web3.d1dns.com
     - title: Foresight
       logo: "foresightnews.ico"
-      url: https://foresightnews.pro/
+      url: https://foresightnews.pro/?ref=web3.d1dns.com
     - title: Investing
       logo: "investing.ico"
-      url: https://cn.investing.com/
+      url: https://cn.investing.com/?ref=web3.d1dns.com
       description: 英为财情
     - title: BlockTempo
       logo: "blocktempo.ico"
-      url: https://www.blocktempo.com/
+      url: https://www.blocktempo.com/?ref=web3.d1dns.com
     - title: PAnews
       logo: "panewslab.ico"
-      url: https://www.panewslab.com/zh/index.html
+      url: https://www.panewslab.com/zh/index.html?ref=web3.d1dns.com
