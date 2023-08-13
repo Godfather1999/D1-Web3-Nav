@@ -204,15 +204,15 @@
       links:
         - title: Pancake
           logo: "pancakeswap.ico"
-          url: https://pancakeswap.finance/
+          url: https://pancakeswap.finance/swap?ref=web3.d1dns.com
           description: BSC
         - title: Uniswap
           logo: "uniswap.ico"
-          url: https://uniswap.org/
+          url: https://app.uniswap.org/#/swap?ref=web3.d1dns.com
           description: ETH
         - title: GMX
-          logo: "uniswap.ico"
-          url: https://uniswap.org/
+          logo: "gmx.ico"
+          url: https://tinyurl.com/NDGMX
           description: ARB/AVAX
         - title: DYDX
           logo: "dydx.ico"
@@ -232,6 +232,10 @@
           logo: "coinglass.ico"
           url: https://www.coinglass.com/zh
           description: 很全面
+        - title: DexTools
+          logo: "dextools.ico"
+          url: https://www.dextools.io/app/cn?ref=web3.d1dns.com/pairs
+          description: 小币种K线
 
 - taxonomy: 元宇宙
   icon: fas fa-rocket
@@ -399,10 +403,15 @@
         - title: Solidity教程
           logo: "freeCodeCamp.jpg"
           url: https://www.youtube.com/watch?v=M576WGiDBdQ 
+        - title: WTF-Solidity
+          logo: "github.ico"
+          url: https://github.com/AmazingAng/WTF-Solidity
+          description: Solidity新手教程
         - title: Dev Resources
           logo: "github.ico"
           url: https://github.com/frankiefab100/Blockchain-Development-Resources
           description: 开发资源合集
+          
     - term: 测试网水龙头
       links:
         - title: PK910
