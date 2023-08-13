@@ -55,7 +55,7 @@
       url: http://bit.ly/baigua
     - title: AI生成PPT
       logo: "gamma.ico"
-      url: https://gamma.app/
+      url: https://gamma.app/?ref=web3.d1dns.com
 
 - taxonomy: 数据分析
   icon: fas fa-chart-pie
@@ -84,7 +84,7 @@
           description: 气泡图形行情
         - title: ScopeScan
           logo: "scopescan.ico"
-          url: https://www.scopescan.ai/home?network=eth 
+          url: https://www.scopescan.ai/home?ref=web3.d1dns.com
           description: Web3 分析
         - title: CoinGlass
           logo: "coinglass.ico"
@@ -146,7 +146,7 @@
           description: 指纹浏览器
         - title: Earni.fi
           logo: "earni.fi.ico"
-          url:  https://earni.fi/
+          url:  https://earni.fi/?ref=web3.d1dns.com
           description: 钱包空投信息查询
     - term: 空投信息
       links: 
@@ -160,11 +160,11 @@
           description: 空投信息聚合
         - title: CoinMarketCap
           logo: "coinmarketcap.ico"
-          url: https://coinmarketcap.com/zh/airdrop/ ?ref=web3.d1dns.com
+          url: https://coinmarketcap.com/zh/airdrop/?ref=web3.d1dns.com
           description: 空投信息
         - title: Galxe
           logo: "galxe.ico"
-          url: https://galxe.com/ 
+          url: https://galxe.com/?ref=web3.d1dns.com
           description: 空投任务
         - title: DropsEarn
           logo: "dropsearn.ico"
@@ -262,7 +262,7 @@
           description: Starknet域名
         - title: Ace Domain
           logo: "acedomains.ico"
-          url:  app.acedomains.io
+          url:  app.acedomains.io/?ref=web3.d1dns.com
           description: Ace域名
         - title: Base Domain
           logo: "basens.ico"
@@ -276,27 +276,27 @@
           description: 挂机赚钱
         - title: Degame
           logo: "degame.ico"
-          url: https://degame.com/zh/ranking 
+          url: https://degame.com/zh/ranking?ref=web3.d1dns.com
           description: 链游排行
         - title: PlaytoEarn
           logo: "playtoearn.online.ico"
-          url: https://www.playtoearn.online/
+          url: https://www.playtoearn.online/?ref=web3.d1dns.com
           description: 链游资讯
         - title: Gametaverse
           logo: "gametaverse.ico"
-          url: https://gametaverse.io/ 
+          url: https://gametaverse.io/?ref=web3.d1dns.com
           description: 链游趋势
         - title: Gamefiorg
           logo: "gamefi.ico"
-          url: https://gamefi.org/ 
+          url: https://gamefi.org/?ref=web3.d1dns.com
           description: 链游聚合信息
         - title: PlaytoEarn
           logo: "playtoearn.net.ico"
-          url: https://playtoearn.net/blockchaingames
+          url: https://playtoearn.net/blockchaingames?ref=web3.d1dns.com
           description: 链游表单
         - title: YieldGuild
           logo: "yieldguild.ico"
-          url: https://www.yieldguild.io/
+          url: https://www.yieldguild.io/?ref=web3.d1dns.com
           description: 链游赚钱工会
 
 - taxonomy: NFT
@@ -423,27 +423,27 @@
       links:
         - title: BoleJobs
           logo: "bolejobs.ico"
-          url: https://www.bolejobs.co/
+          url: https://www.bolejobs.co/?ref=web3.d1dns.com
           description: 中文招聘
         - title: CryptoJobsList
           logo: "cryptojobslist.ico"
-          url: https://cryptojobslist.com/
+          url: https://cryptojobslist.com/?ref=web3.d1dns.com
           description: 招聘门户
         - title: Remote3
           logo: "remote3.ico"
-          url: https://remote3.co/
+          url: https://remote3.co/?ref=web3.d1dns.com
           description: 远程工作
         - title: Web3.Career
           logo: "web3.career.ico"
-          url: https://web3.career/
+          url: https://web3.career/?ref=web3.d1dns.com
           description: 薪资排序
         - title: UseWeb3
           logo: "useweb3.ico"
-          url: https://www.useweb3.xyz/jobs
+          url: https://www.useweb3.xyz/jobs?ref=web3.d1dns.com
           description: 技术开发
         - title: DeWork
           logo: "dework.ico"
-          url: https://app.dework.xyz/
+          url: https://app.dework.xyz/?ref=web3.d1dns.com
           description: DAO任务
 - taxonomy: 跨链桥
   icon: fas fa-rainbow
