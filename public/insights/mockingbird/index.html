@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <!DOCTYPE html>
 <html lang="zh-CN">
 
 <head>
@@ -13,7 +10,7 @@
     <title>Web3 导航站 | 币圈导航 | 区块链导航 - D1导航网</title>
     <link rel="shortcut icon" href="/assets/images/favicon.png" />
 
-    <meta content="" name="keywords">
+    <meta content="MockingBird, AI, 文字转语音" name="keywords">
     
     <link rel="stylesheet" id="block-library-css"
         href="/assets/css/block-library.min-5.6.2.css" type="text/css" media="all" />
@@ -57,7 +54,7 @@ if (!doNotTrack) {
 
 </head>
 
-        
+
 <body class="io-black-mode">
 
     
@@ -179,7 +176,8 @@ if (!doNotTrack) {
             </div>
         </div>
 
-        <div class="main-content flex-fill grid-bg">
+
+<div class="main-content flex-fill grid-bg">
     <div class="big-header-banner">
         <div id="header" class="page-header sticky">
             <div class="navbar navbar-expand-md">
@@ -305,94 +303,138 @@ if (!doNotTrack) {
         <div class="placeholder" style="height:74px"></div>
     </div>
 
-    </head>
 
-    
-        <body>
-    
-    
-        <div class="container">
-            <!DOCTYPE html>
-<html lang="zh-CN">
+<body class="page-body boxed-container">
+    <main role="main" class="flex-shrink-0">
+    <div class="container">
+        <h1 class="mt-5">MockingBird - AI文字转语音神器！最新安装及使用教程！</h1>
+        <div class="content">
+            <h2 id="一-安装">一. 安装</h2>
+<ol>
+<li>
+<p>安装Python 选择3.8 或更高版本 <a href="https://www.python.org/" target="_blank" rel="nofollow"><font color=orange>【Python官网】</font></a></p>
+</li>
+<li>
+<p>安装 PyTorch，官网下载即可 <a href="https://pytorch.org/get-started/locally/" target="_blank" rel="nofollow"><font color=orange>【PyTorch官网】</font></a>，如果GPU不支持CUDA，就默认选择，没有显卡或显卡比较差可以选择CPU。</p>
+</li>
+<li>
+<p>安装 ffmpeg  <a href="https://ffmpeg.org/download.html#build-windows" target="_blank" rel="nofollow"><font color=orange>【官网下载】</font></a>，直接选择把bin目录添加到系统变量path里。</p>
+</li>
+<li>
+<p>下载 MockingBird 【开源项目】下载解压后，直接在目录输入CMD 进入终端</p>
+</li>
+<li>
+<p>在终端下（cmd + R）安装所需环境</p>
+<p><code>python -m pip install --upgrade pip</code></p>
+<p><code>pip install -r requirements.txt</code></p>
+<p><code>pip install webrtcvad-wheels</code></p>
+</li>
+<li>
+<p>下载或使用自己训练的语言模型</p>
+<table>
+<thead>
+<tr>
+<th>作者</th>
+<th>下载链接</th>
+<th>效果预览</th>
+<th>信息</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>作者</td>
+<td><a href="https://pan.baidu.com/s/1iONvRxmkI-t1nHqxKytY3g" target="_blank" rel="nofollow"><font color=orange>【百度网盘】</font></a> 提取码: 4j5d</td>
+<td></td>
+<td>75k steps 用3个开源数据集混合训练</td>
+</tr>
+<tr>
+<td>作者</td>
+<td><a href="https://pan.baidu.com/s/1fMh9IlgKJlL2PIiRTYDUvw" target="_blank" rel="nofollow"><font color=orange>【百度网盘】</font></a> 提取码: om7f</td>
+<td></td>
+<td>25k steps 用3个开源数据集混合训练, 切换到tag v0.0.1使用</td>
+</tr>
+<tr>
+<td>@FawenYo</td>
+<td><a href="https://drive.google.com/file/d/1H-YGOUHpmqKxJ9FRc6vAjPuqQki24UbC/view?usp=sharing" target="_blank" rel="nofollow"><font color=orange>【谷歌云盘】</font></a> 提取码: 1024</td>
+<td><a href="https://github.com/babysor/MockingBird/wiki/audio/self_test.mp3">input</a>   <a href="https://github.com/babysor/MockingBird/wiki/audio/export.wav">output</a></td>
+<td>200k steps 台湾口音需切换到tag v0.0.1使用</td>
+</tr>
+<tr>
+<td>@miven</td>
+<td><a href="https://pan.baidu.com/s/1PI-hM3sn5wbeChRryX-RCQ" target="_blank" rel="nofollow"><font color=orange>【百度网盘】</font></a> 提取码: 2021</td>
+<td></td>
+<td>150k steps 注意：根据issue修复 并切换到tag v0.0.1使用</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p>下载模型后，确保 pt 格式文件放在 synthesizer\saved_models文件夹下，saved_models 不存在的话新建文件夹即可</p>
+</li>
+<li>
+<p>执行命令，即可启动程序！</p>
+</li>
+</ol>
+<h2 id="二-启动程序或工具箱">二. 启动程序或工具箱</h2>
+<h4 id="-启动web程序v2">· 启动Web程序（v2）</h4>
+<p><code>python web.py</code></p>
+<p>运行成功后在浏览器打开地址, 默认为 http://localhost:8080</p>
+<h4 id="-启动工具箱">· 启动工具箱</h4>
+<p><code>python demo_toolbox.py -d &lt;datasets_root&gt;</code></p>
+<p>指定一个可用的数据集文件路径，如果有支持的数据集则会自动加载供调试，也同时会作为手动录制音频的存储目录。</p>
+<center><img src="https://user-images.githubusercontent.com/7423248/134275227-c1ddf154-f118-4b77-8949-8c4c7daf25f0.png" alt="MockingBird" width="100%" /></center>
+<h4 id="-启动工具箱vc模式">· 启动工具箱VC模式</h4>
+<p><code>python demo_toolbox.py -vc -d &lt;datasets_root&gt;</code></p>
+<p>指定一个可用的数据集文件路径，如果有支持的数据集则会自动加载供调试，也同时会作为手动录制音频的存储目录。</p>
+<center><img src="https://user-images.githubusercontent.com/7423248/156805733-2b093dbc-d989-4e68-8609-db11f365886a.png" alt="MockingBird" width="100%" /></center>
+        </div>
+    </div>
+    </main>
 
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="theme-color" content="#f9f9f9" />
-    <title>Web3 导航站 | 币圈导航 | 区块链导航 - D1导航网</title>
-    <link rel="shortcut icon" href="/assets/images/favicon.png" />
+    <style>
+        .content {
+            font-size: 1.25rem;
+          }
+          
+          .content h1,
+          .content h2,
+          .content h3,
+          .content h4 {
+            margin: 15px 10px 5px;
+          }
+          
+    </style>
 
-    <meta content="" name="keywords">
-    
-    <link rel="stylesheet" id="block-library-css"
-        href="/assets/css/block-library.min-5.6.2.css" type="text/css" media="all" />
-    <link rel="stylesheet" id="iconfont-css" href="/assets/css/iconfont-3.03029.1.css"
-        type="text/css" media="all" />
-    <link rel="stylesheet" id="bootstrap-css" href="/assets/css/bootstrap.min-4.3.1.css"
-        type="text/css" media="all" />
-    <link rel="stylesheet" id="fancybox-css" href="/assets/css/fancybox.min-3.5.7.css"
-        type="text/css" media="all" />
-    <link rel="stylesheet" id="iowen-css" href="/assets/css/style-3.03029.1.css"
-        type="text/css" media="all" />
-    <link rel="stylesheet" id="custom-css" href="/assets/css/custom-style.css"
-        type="text/css" media="all" />
-    <link rel="stylesheet" id="fortawesome-css" href="/assets/fontawesome-5.15.4/css/all.min.css" type="text/css" />
-    <script type="text/javascript" src="/assets/js/jquery.min-3.2.1.js" id="jquery-js"></script>
-    <script type="text/javascript" src="/assets/js/content-search.js"  id="content-search-js"></script>
-    
-    <script>
-        
-    </script>
-    
-    
-     
-    
-    
-    
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=pub-5039124460067822" crossorigin="anonymous"></script>
-    
-    
-    
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXXPENV3WP"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-QXXPENV3WP', { 'anonymize_ip': false });
-}
-</script>
-
-</head>
-
-
-            <div class="content">
+        <footer class="main-footer footer-type-1 text-xs">
+            <div id="footer-tools" class="d-flex flex-column">
+                <a href="javascript:" id="go-to-up" class="btn rounded-circle go-up m-1" rel="go-top">
+                    <i class="iconfont icon-to-up"></i>
+                </a>
                 
-    
-    <link rel="stylesheet" id="block-library-css"
-    href="/assets/css/posts.css" type="text/css" media="all" />
-    <main class="posts">
-        <h1>Tags</h1>
-
-        
-
-        
-    <div class="pagination">
-    <div class="pagination__buttons">
-        
-        
+                <a href="javascript:" data-toggle="modal" data-target="#search-modal" class="btn rounded-circle m-1"
+                    rel="search" one-link-mark="yes">
+                    <i class="iconfont icon-search"></i>
+                </a>
+                <a href="https://t.me/oldking3" class="btn rounded-circle kefu m-1" target="_blank" data-toggle="tooltip" data-placement="left" title="联系我们">
+                    <i class="mode-ico iconfont icon-qq"></i>
+                </a>
+                
+                 
+                <a href="javascript:" onclick="window.location.href='javascript:switchNightMode()'" class="btn rounded-circle switch-dark-mode m-1" id="yejian"
+                    data-toggle="tooltip" data-placement="left" title="夜间模式">
+                    <i class="mode-ico iconfont icon-light"></i>
+                </a>
+		
+            </div>
+            <div class="footer-inner">
+                <div class="footer-text">Copyright © 2002-2023 D1 Web3 导航 , All rights reserved.</div>
+            </div>
+        </footer>
     </div>
 </div>
 
-    </main>
 
-            </div>
-
-            
-                <script type='text/javascript' src='/assets/js/jquery.ui.touch-punch.min-0.2.2.js' id='jqueryui-touch-js'></script>
+<script type='text/javascript' src='/assets/js/jquery.ui.touch-punch.min-0.2.2.js' id='jqueryui-touch-js'></script>
 <script type='text/javascript' src='/assets/js/clipboard.min-5.6.2.js' id='clipboard-js'></script>
 <script type='text/javascript' src='/assets/js/tooltip-extend.js' id='iplaycode-nav-js'></script>
 <script type='text/javascript' id='popper-js-extra'>
@@ -515,7 +557,3 @@ function switchNightMode(){
 </body>
 </html>
 
-            
-        </div>
-    </body>
-</html>

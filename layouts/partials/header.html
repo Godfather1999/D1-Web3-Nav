@@ -9,7 +9,8 @@
     <meta name="theme-color" content="#f9f9f9" />
     <title>{{ .Site.Title }}</title>
     <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
-    <meta name="keywords" content="{{ .Site.Title }}" />
+
+    <meta content="{{ delimit .Keywords ", " }}" name="keywords">
     {{ if $.Site.Params.seo.baiduSiteVer }}
     <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
     {{ end }}

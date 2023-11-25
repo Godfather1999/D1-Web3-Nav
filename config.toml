@@ -16,6 +16,7 @@ googleAnalytics       = 'G-QXXPENV3WP'
     description   = "Web3 网址导航"
     upload        = "https://forms.gle/muS6x67NghtE6ymn8"  					# 左侧导航栏的"网站提交"
     about         = "/about"					# 左侧导航栏的"关于导航"页面(./about)
+    insight         = "/insights"
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "Web3 导航"					# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
