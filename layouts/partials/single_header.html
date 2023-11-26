@@ -7,10 +7,10 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="theme-color" content="#f9f9f9" />
-    <title>{{ .Site.Title }}</title>
+    <title>{{ .Title }}</title>
+    <meta name="description" content="{{ printf "%s %s" .Title .Content | plainify | truncate 150 }}," />
+    <meta name="keywords" content="{{ delimit .Keywords ", " }}" >
     <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
-    <meta name="description" content="{{ .Site.Params.description }}" />
-    <meta name="keywords" content="{{ .Site.Params.keywords }}" />
     {{ if $.Site.Params.seo.baiduSiteVer }}
     <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
     {{ end }}

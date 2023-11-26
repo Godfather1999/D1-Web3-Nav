@@ -12,7 +12,7 @@ keywords:
 1. 安装Python 选择3.8 或更高版本 <a href="https://www.python.org/" target="_blank" rel="nofollow"><font color=orange>【Python官网】</font></a>
 2. 安装 PyTorch，官网下载即可 <a href="https://pytorch.org/get-started/locally/" target="_blank" rel="nofollow"><font color=orange>【PyTorch官网】</font></a>，如果GPU不支持CUDA，就默认选择，没有显卡或显卡比较差可以选择CPU。
 3. 安装 ffmpeg  <a href="https://ffmpeg.org/download.html#build-windows" target="_blank" rel="nofollow"><font color=orange>【官网下载】</font></a>，直接选择把bin目录添加到系统变量path里。
-4. 下载 MockingBird 【开源项目】下载解压后，直接在目录输入CMD 进入终端
+4. 下载 MockingBird <a href="https://github.com/babysor/MockingBird" target="_blank" rel="nofollow"><font color=orange>【开源项目】</font></a> 下载解压后，直接在目录输入CMD 进入终端
 5. 在终端下（cmd + R）安装所需环境
 
 	`

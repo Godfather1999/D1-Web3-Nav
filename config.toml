@@ -1,7 +1,6 @@
 baseURL               = "https://www.d1dns.com/"
 languageCode          = "zh-CN"
 title                 = "Web3 导航站 | 币圈导航 | 区块链导航 - D1导航网"
-kewords               = "Web3 导航站 | 币圈导航 | 区块链导航 - D1导航网"
 description           = "Web3 导航站 | 币圈导航 | 区块链导航 - D1导航网"
 theme                 = "Navigation"
 preserveTaxonomyNames = true
@@ -13,7 +12,8 @@ googleAnalytics       = 'G-QXXPENV3WP'
 
 [params]
     author        = "D1"
-    description   = "Web3 网址导航"
+    description   = "Web3币圈导航站(www.d1dns.com)是一个Web3综合导航网站,专门整理Web3,Crypto,AI人工智能等行业热门网站及工具，包括交易所、NFT、AI、工具类，收藏D1导航网一个就够了。"
+    keywords      = "Web3导航站,币圈导航,区块链导航,AI导航网站,人工智能,web3.0,crypto,元宇宙,nft,导航网站,web3导航,D1导航网"
     upload        = "https://forms.gle/muS6x67NghtE6ymn8"  					# 左侧导航栏的"网站提交"
     about         = "/about"					# 左侧导航栏的"关于导航"页面(./about)
     insight         = "/insights"
