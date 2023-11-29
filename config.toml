@@ -1,7 +1,6 @@
 baseURL               = "https://www.d1dns.com/"
 languageCode          = "zh-CN"
-title                 = "Web3 导航站 | 币圈导航 | 区块链导航 - D1导航网"
-description           = "Web3 导航站 | 币圈导航 | 区块链导航 - D1导航网"
+title                 = "Web3 导航站 | 币圈导航 | 区块链导航 | AI门户网站 - D1导航网"
 theme                 = "Navigation"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -12,33 +11,33 @@ googleAnalytics       = 'G-QXXPENV3WP'
 
 [params]
     author        = "D1"
-    description   = "Web3币圈导航站(www.d1dns.com)是一个Web3综合导航网站,专门整理Web3,Crypto,AI人工智能等行业热门网站及工具，包括交易所、NFT、AI、工具类，收藏D1导航网一个就够了。"
-    keywords      = "Web3导航站,币圈导航,区块链导航,AI导航网站,人工智能,web3.0,crypto,元宇宙,nft,导航网站,web3导航,D1导航网"
+    description   = "Web3币圈导航站(www.d1dns.com)是一个Web3综合导航网站,专门整理Web3,Crypto,AI人工智能等行业热门网站及工具,包括交易所,NFT,AIGC,工具类，收藏D1导航网一个就够了。"
+    keywords      = "Web3导航站,币圈导航,区块链导航,AI导航网站,人工智能,web3.0,crypto,元宇宙,nft,导航网站,web3导航,web3门户,AI门户,AIGC,D1导航网"
     upload        = "https://forms.gle/muS6x67NghtE6ymn8"  					# 左侧导航栏的"网站提交"
-    about         = "/about"					# 左侧导航栏的"关于导航"页面(./about)
-    insight         = "/insights"
-    enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "Web3 导航"					# 预加载的动画文字, 只有当enablePreLoad=true时生效
-    expandSidebar = true					# 默认展开左侧边导航栏
-    logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
-    defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
-    nightMode     = true						# 默认站点为深色(夜间)模式
-    yiyan         = true                         		# 默认启用一言服务
+    about         = "/about"                                    # 左侧导航栏的"关于导航"页面(./about)
+    insight       = "/insights"
+    enablePreLoad = true                                        # 网站完全打开前预加载动画
+    textPreLoad   = "Web3 导航"                                 # 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar = true                                        # 默认展开左侧边导航栏
+    logosPath     = "assets/images/logos"                       # 网站每个导航地址logo存放地址
+    defaultLogo   = "assets/images/logos/default.webp"          # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    nightMode     = true                                        # 默认站点为深色(夜间)模式
+    yiyan         = true                                        # 默认启用一言服务
 
 [params.seo]    
-    baiduhmid       = ''			# 百度统计 hm.src 的 ID
-    baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
-    tj51laid        = ''       		        # 51.LA 网站统计
+    baiduhmid       = ''                                        # 百度统计 hm.src 的 ID
+    baiduSiteVer    = ''                                        # 百度HTML标签验证(baidu-site-verification)
+    tj51laid        = ''                                        # 51.LA 网站统计
     tj51lack        = ''
-    GoogleAdsClient = 'pub-5039124460067822'	# Google AdSense 
+    GoogleAdsClient = 'pub-5039124460067822'                    # Google AdSense 
 
 [params.qweather]
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
     favicon           = "assets/images/favicon.png"
-    searchImageL      = "assets/images/bg.png"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg.png"		# 搜索部分深色背景图
+    searchImageL      = "assets/images/bg.png"                  # 搜索部分浅色背景图
+    searchImageD      = "assets/images/bg.png"                  # 搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.png"
     logoExpandDark    = "assets/images/bt8-expand-dark.png"
     logoCollapseLight = "assets/images/bt.png"
