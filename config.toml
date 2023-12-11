@@ -1,6 +1,6 @@
 baseURL               = "https://www.d1dns.com/"
 languageCode          = "zh-CN"
-title                 = "Web3 导航站 | 币圈导航 | 区块链导航 | AI门户网站 - D1导航网"
+title                 = "Web3 导航站 | 币圈导航 | 区块链导航 | AI导航门户 - D1导航网"
 theme                 = "Navigation"
 preserveTaxonomyNames = true
 disablePathToLower    = true
